@@ -34,7 +34,8 @@ int main() {
 }
 ```
 # OUTPUT:
-![Uploading image.png…]()
+<img width="1444" height="701" alt="Screenshot 2025-09-25 092254" src="https://github.com/user-attachments/assets/fa2c27b2-9b1d-41f1-b1bf-6e91168b545f" />
+
 
 
 # RESULT:
